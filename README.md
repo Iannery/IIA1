@@ -5,8 +5,8 @@
 - André Carvalho Marques - 15/0005491
 - Ian Nery Bandeira - 17/0144739
 
-## Python versão 3.8.2 ##
-## Executado em Ubuntu 20.04.1 LTS ##
+### Python versão 3.8.2 
+### Executado em Ubuntu 20.04.1 LTS 
 
 PACOTES NECESSÁRIOS PARA A EXECUÇÃO DO PROJETO
 

@@ -7,13 +7,12 @@
 
 ### Python versão 3.8.2 
 ### Executado em Ubuntu 20.04.1 LTS 
-
-PACOTES NECESSÁRIOS PARA A EXECUÇÃO DO PROJETO
-
+##
+### Pacotes necessários para a execução do projeto
     - numpy
     - matplotlib
 
-Para instalar os pacotes, execute o comando no terminal
+- Para instalar os pacotes, execute o comando no terminal
         
         pip3 install -r requirements.txt 
 

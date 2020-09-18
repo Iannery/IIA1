@@ -11,7 +11,6 @@
 #########################################################   
 
 import random
-from numpy import vectorize
 import utils
 a = []
 b = []
@@ -37,11 +36,6 @@ class Algoritmo_Genetico():
         self.cidades_list = [k for k in self.hash_distancia.keys()]
         self.cidades_list.remove(self.inicio)
         self.genes = [] 
-        self.gerar_genes = vectorize(self.gerar_genes)
-        self.convergir_genes = vectorize(self.convergir_genes)
-        self.podar_genes = vectorize(self.podar_genes)
-        self.evoluir_genes = vectorize(self.evoluir_genes)
-        self.avaliar_fitness = vectorize(self.avaliar_fitness)
         self.gerar_genes()
     
     #########################################################

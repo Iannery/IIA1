@@ -18,10 +18,10 @@
 
 - Para executar o algoritmo, basta executar o arquivo "./main.py" no terminal com
 
-        python ./main.py
+        python3 ./main.py
 
    É necessário utilizar o './', para que seja identificado o path do projeto, e sejam salvas as imagens dos gráficos junto dos arquivos de texto utilizados para criar os histogramas.
 
 - Caso queira criar um histograma novo, basta executar o arquivo "./arq.py" no terminal com
 
-        python ./arq.py
+        python3 ./arq.py
